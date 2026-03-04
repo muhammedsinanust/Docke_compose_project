@@ -7,7 +7,7 @@ services:
     ports:
       - "3016:3015"
   java-web-app:
-    image: muralisocial123/transaction-image
+    image: muralisocial123/transcation-image
     container_name: java-app
     ports:
       - "8081:8080"
